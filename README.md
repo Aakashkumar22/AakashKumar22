@@ -1,10 +1,14 @@
 ## Hey there, Code Enthusiasts! 👋🚀
 
 Welcome to my corner of the GitHub universe!
-I’m **Aakash Kumar**, a software developer with a knack for turning caffeine into code and a passion for pushing the boundaries of technology. Dive in and explore my digital playground!
+I’m **Aakash Kumar**, a software developer👨🏻‍💻 with a knack for turning caffeine ☕︎into code</> and a passion for pushing the boundaries of technology. Dive in and explore my 🤖digital playground!
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" alt="Hello Centered" width="400"/>
 </p>
+
+![Hello](https://github.com/user-attachments/assets/379445c5-219a-4583-99dd-9a566b36b1ed)
+![hello](https://github.com/user-attachments/assets/8f278884-4dc1-400d-bc2c-fe277441ccb8)
+
 
 <p align="right">
 <img src="https://media.giphy.com/media/xUOrw1avEiJvQJlo76/giphy.gif" alt="Hello right" width="300">
@@ -12,11 +16,8 @@ I’m **Aakash Kumar**, a software developer with a knack for turning caffeine i
 
 
 
-
-
-
-
-
+---
+[![](https://visitcount.itsvg.in/api?id=Aakashkumar22&icon=6&color=4)](https://visitcount.itsvg.in)
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aakash-kumar222/) 
 
@@ -29,13 +30,6 @@ I’m **Aakash Kumar**, a software developer with a knack for turning caffeine i
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Aakashkumar22&limit=5&theme=default&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=Aakashkumar22&icon=5&color=4)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
 
 ## Achievements 🎖️
 
