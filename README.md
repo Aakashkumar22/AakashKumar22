@@ -1,7 +1,9 @@
-<h1 align="center">Hi 👋, I'm Aakash Kumar</h1>
+<h1 align="center">Hi 👋, I'm Aakash Kumar</h1> 
+<img align ="right"alt="coding" width="300"margin =100 src="https://github.com/user-attachments/assets/143f1f35-36be-4aa6-a2c7-270b0d4551d4" />
 <h3 align="center">Welcome to my corner of the GitHub universe! I’m Aakash Kumar, a software developer👨🏻‍💻 with a knack for turning caffeine ☕︎into code</> and a passion for pushing the boundaries of technology. Dive in and explore my 🤖digital playground!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aakashkumar22&label=Profile%20views&color=0e75b6&style=flat" alt="aakashkumar22" /> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -12,20 +14,15 @@
 
 
 
-<p align =right">
-  <img 
-    src="https://github.com/user-attachments/assets/6e318af2-e6df-4e20-9aa2-25228aeaf97d" 
-    alt="giphy" 
-    style="width: 500px; height: auto;" />
-</p>
 
-<p style="text-align: auto; margin: auto;">
-  <img  align="right"
-    top: 50px;
-    src="https://github.com/user-attachments/assets/143f1f35-36be-4aa6-a2c7-270b0d4551d4" 
-    alt="Hello Everyone" 
-    style="width: 500px; height: auto;" />
-</p>
+
+
+
+
+  <img align ="right" alt="coding" width="500" src="https://github.com/user-attachments/assets/6e318af2-e6df-4e20-9aa2-25228aeaf97d" />
+
+
+
 
 
 
@@ -49,12 +46,9 @@
 
 <h3 align="left">Github Journey so Far:</h3>
 
-<div style="display: flex; justify-content: flex-end; margin-top: -20px;">
-  <img
-    src="https://github.com/user-attachments/assets/5abddc9f-5061-4154-b053-c70e83849210" 
-    alt="giphy-_3_" 
-    style="width: 500px; height: auto;" />
-</div>
+
+ <img align ="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" />
+
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aakashkumar22&show_icons=true&locale=en&layout=compact" alt="aakashkumar22" /></p>
@@ -69,6 +63,7 @@
     src="https://github-readme-streak-stats.herokuapp.com/?user=aakashkumar22&" 
     alt="aakashkumar22" 
 </p>
+ <img align ="right" alt="coding" width="200"  src="https://github.com/user-attachments/assets/63cef173-99bc-470f-bd4a-10eecab9f774" />
 
 
 
