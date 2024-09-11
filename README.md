@@ -73,7 +73,8 @@
 
 
 
-### About me 😏<img align ="right" alt="coding" width="240" src="https://github.com/user-attachments/assets/215718b2-18fc-4374-8ae7-011ec650529a" />
+### About me 😏
+<img align ="right" alt="coding" width="240" src="https://github.com/user-attachments/assets/215718b2-18fc-4374-8ae7-011ec650529a" />
 <hr style="height:0px;border-width:0;color:red;background-color:black"/>
 
  
